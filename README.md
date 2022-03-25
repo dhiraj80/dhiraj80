@@ -2,7 +2,8 @@
 <h3 align="center">Challenge Accepted</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj80&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj80" /> </p>
-![alt text](https://github.com/dhiraj80/hi-tech-website/blob/d9b5c2a69745b120e80f9e53f2cbd101e24b320f/git.PNG "Title")
+
+<p align="center"> <img src="https://ibb.co/L5sNPXc" alt="dhiraj80" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj80" alt="dhiraj80" /></a> </p>
 
